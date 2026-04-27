@@ -1,5 +1,3 @@
-import Clases.Estudiante;
-
 public class SistemaMatricula {
     public static void main(String[] args) {
 

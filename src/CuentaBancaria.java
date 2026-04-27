@@ -1,5 +1,3 @@
-package Clases;
-
 public class CuentaBancaria {
     private double saldo;
 

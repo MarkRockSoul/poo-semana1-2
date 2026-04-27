@@ -1,5 +1,3 @@
-import Clases.CuentaBancaria;
-
 public class PruebaSistemaBanca {
     public static void main(String[] args) {
 
