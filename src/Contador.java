@@ -1,0 +1,16 @@
+public class Contador {
+	// Variable estatica
+	private static int total = 0;
+
+	public static void contar() {
+		total++;
+	}
+
+	public static void contar(int valor) {
+		total += valor;
+	}
+
+	public static int getTotal() {
+		return total;
+	}
+}
